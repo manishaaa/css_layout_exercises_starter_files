@@ -18,12 +18,12 @@ main {
 
 .box_half {
   width: 50%;
-  height: 200px;
+  height: 100%;
 }
 
 .box_third {
   width: 33.33%;
-  height: 300px;
+  height: 100%;
 }
 
 .black {
@@ -47,6 +47,9 @@ main {
   background-color: orange
 }
 
-.centered {
-  text-align: center;
+.upper {
+  height: 200px;
+}
+.lower {
+  height: 300px;
 }
